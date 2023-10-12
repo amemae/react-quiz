@@ -1,7 +1,10 @@
+import Answer from "./Answer";
+
 const Question = () => {
     return (
         <div>
-            Question
+            <div>Question</div>
+            <Answer />
         </div>
     );
 };
